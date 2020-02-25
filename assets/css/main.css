@@ -2205,7 +2205,7 @@ input, select, textarea {
 
 			.features {
 				display: block;
-			}
+			}bb
 
 				.features section {
 					border-top-width: 1px !important;
@@ -2216,6 +2216,9 @@ input, select, textarea {
 					.features section:first-child {
 						border-top-width: 0 !important;
 					}
+			.button {
+				margin-left: 30px;
+			}
 
 		}
 
